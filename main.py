@@ -51,4 +51,4 @@ def negyszog():
   t.forward(45)
   t.left(90)
   t.forward(45)
-negyszog()
+virag()
