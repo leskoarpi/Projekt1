@@ -1,7 +1,7 @@
 import turtle
 def hexagram():
   alex = turtle.Turtle()
-  alex.pensize(8)
+  alex.pensize(4)
   alex.circle(99)
   alex.pensize(2)
   alex.color("red")
